@@ -38,8 +38,8 @@ This project analyzes user interactions with **Netflix viewing data** to underst
 ---
 
 ## 📂 Files in the Repository
-- 📝 **`ALY6040_MOD2_SCRIPT.ipynb`** - Jupyter Notebook for data processing, modeling, and analysis.
-- 📜 **`ALY6040_MOD2_Mohammed.pdf`** - Detailed report documenting methodology and findings.
+- 📝 **`SCRIPT.ipynb`** - Jupyter Notebook for data processing, modeling, and analysis.
+- 📜 **`Documentation.pdf`** - Detailed report documenting methodology and findings.
 
 ---
 
